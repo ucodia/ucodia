@@ -8,6 +8,8 @@ I work under [Ucodia Studio](https://ucodia.space) and as a research assistant a
 
 🎨 **[Autolume](https://github.com/Metacreation-Lab/autolume)** · Core maintainer. Autolume lets artists use StyleGAN2 for live visual performances with real-time latent space exploration, OSC control, and NDI output. I work across the full stack with a focus on user experience and developer experience.
 
+🎭 **[ZeitGAN](https://github.com/ucodia/zeitgan)** · A real-time weight interpolation engine which allows to navigate latent space across StyleGAN model snapshots, includes a headless mode, OSC control and Syphon/Spout output. Works on Windows, macOS and Linux.
+
 ⚡ **[Wattsup](https://wattsup.tech)** · Founder. A sustainability project shining a light on AI energy usage. Exhibited at MUTEK Montreal 2025 as part of the AI Ecologies Lab. Try [Wattsup for OpenRouter](https://openrouter.wattsup.tech) for a live window into global AI energy consumption.
 
 🍄 **[Mycologue](https://mycologue.org)** · A 3D catalogue of mushrooms.
